@@ -1,32 +1,41 @@
-print('week 2 , exercise 7 , mobinaabdi')
+print('week 2 , exercise 6 , mobinaabdi')
+x = 2
+(a0) = print("x")
+(b0) = print('x')
+(c0) =print(x)
+(d0) = print("x + 1")
+(e0) =print('x' + '1')
+(f0) = print(x + 1)
+
+print('week 2 , exercise 7')
 i1 = 2
 i2 = 5
 i3 = -3
 d1 = 2.0
 d2 =  5.0
 d3 = -0.5
-(a) = i1 + i2
-(b) = i1 / i2
-(c) = i1 // i2
-(d) = i2 / i1
-(e) = i2 // i1
-(f) = i1 * i3
-(g) = d1 + d2
-(h) = d1 / d2
-(i) = d2 / d1
-(j) = d3 * d1
-(k) = d1 + i2
-(l) = i1 / d2
-(m) = d2 / i1
-(n) = i2 / d1
-(o) = i1/i2*d1
-(p) = d1*i1/i2
-(q) = d1/d2*i1
-(r) = i1*d1/d2
-(s) = i2/i1*d1
-(t) = d1*i2/i1
-(u) = d2/d1*i1
-(v) = i1*d2/d1
+(a1) = i1 + i2
+(b1) = i1 / i2
+(c1) = i1 // i2
+(d1) = i2 / i1
+(e1) = i2 // i1
+(f1) = i1 * i3
+(g1) = d1 + d2
+(h1) = d1 / d2
+(i1) = d2 / d1
+(j1) = d3 * d1
+(k1) = d1 + i2
+(l1) = i1 / d2
+(m1) = d2 / i1
+(n1) = i2 / d1
+(o1) = i1/i2*d1
+(p1) = d1*i1/i2
+(q1) = d1/d2*i1
+(r1) = i1*d1/d2
+(s1) = i2/i1*d1
+(t1) = d1*i2/i1
+(u1) = d2/d1*i1
+(v1) = i1*d2/d1
 
 print('week 2 , exercise 8 ')
 print(5/3)
