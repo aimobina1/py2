@@ -1,4 +1,4 @@
-print('week 2 , exercise6 , mobinaabdi')
+print('week 2 , exercise 7 , mobinaabdi')
 i1 = 2
 i2 = 5
 i3 = -3
@@ -21,4 +21,12 @@ d3 = -0.5
 (n) = i2 / d1
 (o) = i1/i2*d1
 (p) = d1*i1/i2
+(q) = d1/d2*i1
+(r) = i1*d1/d2
+(s) = i2/i1*d1
+(t) = d1*i2/i1
+(u) = d2/d1*i1
+(v) = i1*d2/d1
 
+print('week 2 , exercise 8 ')
+print(5/3)
